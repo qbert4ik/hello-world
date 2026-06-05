@@ -1,2 +1,2 @@
 # hello-world
-Этот репозиторий предназначен для отработки алгоритма работы GitHub
+This repository is for practicing the GitHub Flow.
